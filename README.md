@@ -1,2 +1,2 @@
-# AvtivityStaff
- AvtivityStaff
+# ActivityStaff
+ Activity Staff
